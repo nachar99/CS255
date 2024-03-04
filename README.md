@@ -11,7 +11,7 @@ I Believe I did a great job designing the necessary diferrent UML Diagrams and d
 I would the business requirements document more specific and detailed.
 
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-Obviously this whole platform is based on the client's need and our job is to solve their business problems or enhance their business using technology so withput listening to the business and their needs then there would not be any function to what we are doing.
+Obviously this whole platform is based on the client's need and our job is to solve their business problems or enhance their business using technology so without listening to the business and their needs then there would not be any function to what we are doing.
 
 # How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 This experience taught alot of things about designing a good software system , it taught how to use diferrent classes efficiently and how to break down a large complicated system into smaller tasks to iterate. So I would start with understanding the system's end goal fucntions and then start by designing a UML Class Diagram and then understand the flow of data thru using a UML Use Case Diagram.
